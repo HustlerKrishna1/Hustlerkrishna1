@@ -8,7 +8,7 @@
 • Machine Learning Models and AI automation <br><br>
 
 👯 I’m looking to collaborate on <br> 
-• Build a new web application.<br><br>
+• Building a new web application.<br><br>
 
 🤝 I’m looking for help with <br>
 • My 3D modeling project.<br><br>
