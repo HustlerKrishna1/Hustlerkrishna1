@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-*
+
 
 - 🔭 I’m currently working on building automated ML workflows 
 - 🌱 I’m currently learning coding and automation
