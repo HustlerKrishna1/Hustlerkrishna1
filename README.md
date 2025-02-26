@@ -19,7 +19,7 @@
 💬 Ask me about<br>
 • Machine learning and Automating repetitive tasks.
 
-⚡Fact
+⚡Fact<br>
 • We all going to die so plan your time accordingly
 
 
