@@ -5,16 +5,16 @@
 
 <img align="right" alt="" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 🔭 I’m currently working on - <br> 
-• Machine Learning Models and AI automation<br><br>
+• Machine Learning Models and AI automation <br><br>
 
 👯 I’m looking to collaborate on <br> 
-• Making new algorithms.<br><br>
+• Build a new web application.<br><br>
 
 🤝 I’m looking for help with <br>
 • My 3D modeling project.<br><br>
 
 🌱 I’m currently learning <br>
-• Machine Learning and Ai automation for buisneses <br><br>
+• Machine Learning and Ai automation <br><br>
 
 💬 Ask me about<br>
 • Machine learning and Automating repetitive tasks.
@@ -32,7 +32,7 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35"> Social :
 <p align="left">
-<a href="[www.linkedin.com/in/k-r-krishna-83a3b7259](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purushotham-b-8bb3131bb" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/k-r-krishna-83a3b7259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purushotham-b-8bb3131bb" height="30" width="40" /></a>
 
 
 
