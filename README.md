@@ -1,5 +1,5 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<h1 align="center">Hi 👋, I'm Krishna</h1>
+<h1 align="center">Hi 👋, I'm 💫Krishna </h1>
 
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="40"> About Me :
 
@@ -18,6 +18,9 @@
 
 💬 Ask me about<br>
 • Machine learning and Automating repetitive tasks.
+
+⚡Fact
+• We all going to die so plan your time accordingly
 
 
 <br><br>
