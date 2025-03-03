@@ -95,8 +95,7 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishnaa548&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 32%; flex: 1 1 30%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnaa548&theme=shadow_green&hide_border=false" alt="GitHub Streak Stats" style="max-width: 32%; flex: 1 1 30%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishnaa548&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 32%; flex: 1 1 30%;"> <img src="https://streak-stats.demolab.com/?user=Krishnaa548&theme=shadow_green&hide_border=false" alt="GitHub Streak Stats" style="max-width: 32%;">
 </div>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35"> Social :
