@@ -101,7 +101,7 @@
 
 
 ---
-🤝 Commit Activity
+# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Commit Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishnaa548/Krishnaa548/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishnaa548/Krishnaa548/output/github-snake.svg" />
