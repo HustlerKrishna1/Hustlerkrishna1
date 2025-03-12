@@ -102,7 +102,11 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35"> Social :
 <p align="left">
-<a href="www.linkedin.com/in/k-r-krishna-83a3b7259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k-r-krishna-83a3b7259" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/k-r-krishna-83a3b7259" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k-r-krishna-83a3b7259" height="30" width="40" />
+  </a>
+</p>
+
 
 
 
