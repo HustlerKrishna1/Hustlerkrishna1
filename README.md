@@ -115,6 +115,8 @@
 
 
 # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Commit Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnaa548&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" /></br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishnaa548/Krishnaa548/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishnaa548/Krishnaa548/output/github-snake.svg" />
