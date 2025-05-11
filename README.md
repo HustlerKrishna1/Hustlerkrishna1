@@ -14,7 +14,7 @@
 • Building a new web application.<br><br>
 
 🤝 I’m looking for help with <br>
-• My 3D modeling project.<br><br>
+• My portfolio project.<br><br>
 
 🌱 I’m currently learning <br>
 • Machine Learning and Ai automation <br><br>
