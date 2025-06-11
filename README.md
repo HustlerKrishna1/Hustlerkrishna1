@@ -106,15 +106,25 @@
   </tr>
 </table>
 
+<div align="center">
+
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HustlerKrishna1&theme=algolia">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HustlerKrishna1&theme=algolia">
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HustlerKrishna1&layout=compact&theme=algolia&hide_border=true">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HustlerKrishna1&theme=algolia">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HustlerKrishna1n&theme=algolia&utcOffset=8">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=HustlerKrishna1&show_icons=true&locale=en&theme=algolia&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=HustlerKrishna1&theme=radical">
+
+</div>
+<br>
+
+
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krishnaa548&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HustlerKrishna1&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishnaa548&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 32%; flex: 1 1 30%;">
-  <img src="https://streak-stats.demolab.com/?user=Krishnaa548&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="max-width: 32%;">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa548&&theme=gotham&hide=C%23,HLSL,ShaderLab,Objective-C,Objective-C%2B%2B,GAP,CSS)
-</div>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35"> Social :
 <p align="left">
@@ -127,11 +137,6 @@
 
 
 ---
-
-
-# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Commit Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnaa548&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" /></br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishnaa548/Krishnaa548/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishnaa548/Krishnaa548/output/github-snake.svg" />
