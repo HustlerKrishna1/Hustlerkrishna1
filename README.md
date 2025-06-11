@@ -93,16 +93,16 @@
 
 <table>
   <tr>
-    <td><strong>● iris_Classification :</strong> Classify Iris flowers (Setosa, Versicolor, Virginica) based on sepal and petal dimensions.</td>
-    <td><a href="https://github.com/PasamTharun/iris_Classification"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
+    <td><strong>● AI-Powered_Resume--Job_Matcher_System :</strong> Analyzes resumes, matches candidates to suitable job profiles using AI algorithms, and recommends personalized learning paths to bridge skill gaps.</td>
+    <td><a href="https://github.com/HustlerKrishna1/AI-Powered_Resume--Job_Matcher_System"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
   </tr>
        <tr>
-    <td><strong>● Billing_System :</strong> the process of invoicing and billing customers by using billing software.</td>
-    <td><a href="https://github.com/PasamTharun/Billing_System"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
+    <td><strong>● Retail-Recommender-System :</strong>  Personalized Product Recommendations Using SVD.</td>
+    <td><a href="https://github.com/HustlerKrishna1/Retail-Recommender-System"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
   </tr>
          <tr>
-    <td><strong>● House_Price_Prediction :</strong> predict's a house's market value by considering factors like square footage, number of bedrooms, and neighborhood characteristics.</td>
-    <td><a href="https://github.com/PasamTharun/House_Price_Prediction"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
+    <td><strong>● Jarvis-conversational-Ai :</strong> A voice-controlled AI assistant—reminiscent of JARVIS from Iron Man—using Lovable AI, ElevenLabs, and n8n .</td>
+    <td><a href="https://github.com/HustlerKrishna1/Jarvis-web-application"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
   </tr>
 </table>
 
