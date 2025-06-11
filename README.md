@@ -20,11 +20,10 @@
 • Machine Learning and Ai automation <br><br>
 
 💬 Ask me about<br>
-• Machine learning and Automating repetitive tasks.
+• Machine learning,Web 3.O and Automating repetitive tasks.
 
 ⚡Fact<br>
-• We all going to die so plan your time accordingly
-
+• If failure makes you stronger, you can never lose!!
 
 <br><br>
 
@@ -89,6 +88,23 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+
+<h3 align="left">🚀 Projects</h3>
+
+<table>
+  <tr>
+    <td><strong>● iris_Classification :</strong> Classify Iris flowers (Setosa, Versicolor, Virginica) based on sepal and petal dimensions.</td>
+    <td><a href="https://github.com/PasamTharun/iris_Classification"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
+  </tr>
+       <tr>
+    <td><strong>● Billing_System :</strong> the process of invoicing and billing customers by using billing software.</td>
+    <td><a href="https://github.com/PasamTharun/Billing_System"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
+  </tr>
+         <tr>
+    <td><strong>● House_Price_Prediction :</strong> predict's a house's market value by considering factors like square footage, number of bedrooms, and neighborhood characteristics.</td>
+    <td><a href="https://github.com/PasamTharun/House_Price_Prediction"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krishnaa548&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
