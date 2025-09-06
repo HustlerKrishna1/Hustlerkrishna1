@@ -1,0 +1,14 @@
+feature,importance
+debt_to_income_ratio,0.4161955966775563
+annual_income,0.10919817668330813
+credit_score,0.0897126843942536
+income_per_credit_line,0.07487171686530736
+loan_to_income_ratio,0.06668483455300366
+loan_amount,0.06490998522839625
+age,0.0480836111681728
+loan_purpose_encoded,0.03401257014176133
+employment_length,0.0320317254205744
+num_credit_lines,0.02218618888906299
+credit_score_category,0.020736559529050718
+home_ownership_encoded,0.013441678327812267
+age_group,0.007934672121740259
