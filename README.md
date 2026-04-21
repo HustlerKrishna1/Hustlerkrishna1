@@ -174,7 +174,7 @@ class Krishna:
     <td width="50%" valign="top">
       <h3 align="center">🛒 Retail Recommender</h3>
       <div align="center">
-        <a href="https://github.com/HustlerKrishna1/Retail-Recommender-System">
+        <a href="https://github.com/HustlerKrishna1/retail-recommender-minikube.git">
           <img src="https://img.shields.io/badge/View%20Repo-%236D28D9?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
@@ -202,13 +202,13 @@ class Krishna:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Bhanzu 3D Experience</h3>
+      <h3 align="center">🌐 Email automation</h3>
       <div align="center">
-        <a href="https://github.com/HustlerKrishna1/3D-scrolling-website">
+        <a href="https://github.com/HustlerKrishna1/Email-automation-system">
           <img src="https://img.shields.io/badge/View%20Repo-%236D28D9?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
-      <p align="center">Scroll-driven immersive 3D EdTech landing page — six-act narrative, R3F canvas, GSAP ScrollTrigger, lead capture dashboard.</p>
+      <p align="center">Production-grade AI email automation — fully self-hosted, $0.00/month,save $20 to $100 per month.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/>
