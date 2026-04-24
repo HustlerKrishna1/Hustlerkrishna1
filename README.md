@@ -46,7 +46,7 @@ class Krishna:
 
     def contact(self):
         return {
-            "email"  : "reddykrishnakrishna548@gmail.com",
+            "email"  : "hustlerkrishna18@gmail.com">",
             "github" : "HustlerKrishna1",
             "linkedin": "k-r-krishna-83a3b7259"
         }
